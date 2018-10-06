@@ -1,0 +1,21 @@
+baseURL: "https://cameronewood.xyz/"
+languageCode: "en-uk"
+title: "Cameron Wood"
+theme: "aerial"
+
+params:
+  name: "Cameron Wood"
+  about: "Experienced Systems/Software Engineer. Thinker. Passionate Open-source advocate. Technology enthusiast. Problem solver. Adept at Systems Engineering, Software Engineering, Architecture, DevOps, and Agile methodologies."
+  copyright: "Cameron Wood"
+  bg_scroll: "nope"
+  favicon: "favicon.ico"
+  social:
+    - link: "https://github.com/cewood"
+      icon: "github"
+      medium: "Github"
+    - link: "https://www.linkedin.com/in/cameronewood"
+      icon: "linkedin"
+      medium: "LinkedIn"
+    - link: "https://stackoverflow.com/cv/cameronewood"
+      icon: "stack-overflow"
+      medium: "StackOverflow"
