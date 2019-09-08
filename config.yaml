@@ -1,21 +1,19 @@
 baseURL: "https://cameronewood.xyz/"
 languageCode: "en-uk"
+disableRSS: false
+enableRobotsTXT: true
 title: "Cameron Wood"
-theme: "aerial"
+theme: "vncnt-hugo"
 
 params:
-  name: "Cameron Wood"
-  about: "Ardent Systems/Software/DevOps Engineer. With over 10 years of experience working in a variety of roles from Networks, Security, Systems, Software, Architecture, and Agile methodologies."
-  copyright: "Cameron Wood"
-  bg_scroll: "nope"
+  author: "Cameron Wood"
+  description: "Landing Page"
+  bio: "Ardent Systems/Software/DevOps Engineer. With over 10 years of experience working in a variety of roles from Networks, Security, Systems, Software, Architecture, and Agile methodologies."
+  avatar: "avatar.jpg"
   favicon: "favicon.ico"
-  social:
-    - link: "https://github.com/cewood"
-      icon: "github"
-      medium: "Github"
-    - link: "https://www.linkedin.com/in/cameronewood"
-      icon: "linkedin"
-      medium: "LinkedIn"
-    - link: "https://stackoverflow.com/cv/cameronewood"
-      icon: "stack-overflow"
-      medium: "StackOverflow"
+  error404: "There is no such page."
+
+  contact:
+    github: "https://github.com/cewood"
+    linkedin: "https://www.linkedin.com/in/cameronewood"
+    stack-overflow: "https://stackoverflow.com/cv/cameronewood"
