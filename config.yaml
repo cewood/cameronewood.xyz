@@ -8,12 +8,21 @@ theme: "vncnt-hugo"
 params:
   author: "Cameron Wood"
   description: "Landing Page"
-  bio: "Ardent Systems/Software/DevOps Engineer. With over 10 years of experience working in a variety of roles from Networks, Security, Systems, Software, Architecture, and Agile methodologies."
+  bio: "Ardent Systems/Software/DevOps Engineer. With over 10 years of experience working in a variety of roles including Networks, Security, Systems, Software, and Architecture."
   avatar: "avatar.jpg"
   favicon: "favicon.ico"
   error404: "There is no such page."
 
-  contact:
-    github: "https://github.com/cewood"
-    linkedin: "https://www.linkedin.com/in/cameronewood"
-    stack-overflow: "https://stackoverflow.com/cv/cameronewood"
+  contacts:
+    - name: github
+      icon: fab fa-github
+      link: "https://github.com/cewood"
+    - name: linkedin
+      icon: fab fa-linkedin
+      link: "https://www.linkedin.com/in/cameronewood"
+    - name: stack-overflow
+      icon: fab fa-stack-overflow
+      link: "https://stackoverflow.com/cv/cameronewood"
+    - name: resume pdf
+      icon: fa fa-file-pdf
+      link: "https://cameronewood.xyz/resume_cameronewood.pdf"
