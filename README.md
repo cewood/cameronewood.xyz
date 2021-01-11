@@ -1,2 +1,4 @@
 # cameronewood.xyz
-landing page for my domain
+My profession landing page.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9429cd6e-3989-4f60-93f2-0481039c2b8d/deploy-status)](https://app.netlify.com/sites/cameronewood/deploys) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcameronewood.xyz)](https://cameronewood.xyz) [![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m786822323-e6e71b3aa9be410dd1bd6775)](https://stats.uptimerobot.com/pBK7PHz707) [![Security Headers](https://img.shields.io/security-headers?url=https%3A%2F%2Fcameronewood.xyz)](https://securityheaders.com/?q=cameronewood.xyz&hide=on&followRedirects=on) [![Mozilla HTTP Observatory Grade](https://img.shields.io/mozilla-observatory/grade/cameronewood.xyz)](https://observatory.mozilla.org/analyze/cameronewood.xyz) [![Chromium HSTS preload](https://img.shields.io/hsts/preload/cameronewood.xyz)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
