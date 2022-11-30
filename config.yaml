@@ -8,7 +8,7 @@ theme: "vncnt-hugo"
 params:
   author: "Cameron Wood"
   description: "Landing Page"
-  bio: "Ardent Systems/Software/DevOps Engineer. With over 10 years of experience working in a variety of roles including Networks, Security, Systems, Software, and Architecture."
+  bio: "Ardent Engineering Leader adept at Systems, Software, Security, DevOps, and Cloud Native Engineering. With over 15 years of experience working in a variety of roles from Networks, Security, Systems, Software, Architecture, and Agile methodologies."
   avatar: "avatar.jpg"
   favicon: "favicon.ico"
   error404: "There is no such page."
