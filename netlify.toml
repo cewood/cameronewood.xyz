@@ -13,7 +13,8 @@
   publish = "public/"
 
   # Default build command.
-  command = "hugo"
+  # this is commented out to allow config in the netlify UI
+  #command = "hugo"
 
 [build.environment]
   HUGO_VERSION = "0.73.0"
